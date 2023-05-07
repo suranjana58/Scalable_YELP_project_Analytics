@@ -1,2 +1,2 @@
 # Scalable_YELP_project_Analytics
-Project using pyspark to manage Big data in scalable analytics
+End to End Project using Pyspark,Google Cloud(GCP) to manage Big Data in scalable analytics Using Machine learning libraries in Pyspark like SVM,Trigram,kmeans,logistic Regression for Yelp Dataset scraped from Yelp website. In this project we deal with files as big as 5 GB ,11 datasets and derieve useful business information that would benefit business owners in USA
